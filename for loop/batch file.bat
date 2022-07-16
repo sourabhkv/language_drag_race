@@ -1,0 +1,2 @@
+@ECHO OFF 
+FOR /L %%X IN (0,1,1000000)
