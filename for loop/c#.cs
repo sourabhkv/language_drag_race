@@ -1,14 +1,10 @@
-using System;
-namespace test
+public class Program
 {
-    class Program
-    {
-        static void Main()
-        {
-            for (int i=0;i<1000000;i++)
-            {
-                continue;
-            }
-        }
-    }
+	public static void Main()
+	{
+		for(int i=0;i<1000000;i++)
+		{
+			continue;
+		}
+	}
 }
