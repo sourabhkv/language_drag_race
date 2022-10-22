@@ -1,4 +1,3 @@
-import java.util.Scanner;
 import java.lang.Math;
 class Primerange{
 	public static void main(String args[]){
