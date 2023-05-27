@@ -15,6 +15,6 @@ Drag  race of different programming language
 |![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)|281.374|147.4256|148.496|140.0641|
 |![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)|6963.133|205.3976|118.266|135.1433|
 |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|9114.126|249.9401|78.0501|156.257|
-
+|![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)|10922.9698|384.8951|355.5512|426.0676|
 
  Tested on i3 540.
